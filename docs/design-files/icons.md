@@ -1,4 +1,5 @@
 # Icons
+[Icons - SVGs.zip](https://github.com/Fiserv/design-center/files/13830699/Icons.-.SVGs.zip)
 
 </br>
 
