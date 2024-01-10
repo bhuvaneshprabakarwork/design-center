@@ -2,6 +2,8 @@
 
 </br>
 
+[Icons - SVGs.zip](https://github.com/Fiserv/design-center/files/13889253/Icons.-.SVGs.zip)
+
 ## How to get icons
 
 <span style="color:#333333">
